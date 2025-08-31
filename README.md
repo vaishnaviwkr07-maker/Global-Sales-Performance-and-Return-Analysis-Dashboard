@@ -23,4 +23,4 @@ The dashboard was built using the following tools and technologies:
       A) 
 
 5. Screenshots:
-   The dashboard look like: 
+   The dashboard look like: https://github.com/vaishnaviwkr07-maker/Global-Sales-Performance-and-Return-Analysis-Dashboard/blob/main/Global%20Sales%20Performance%20and%20Return%20Analysis%20Dashboard.png
