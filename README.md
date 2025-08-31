@@ -13,3 +13,4 @@ The dashboard was built using the following tools and technologies:
 
 3. Features/ Highlights
    1. 
+   2.
