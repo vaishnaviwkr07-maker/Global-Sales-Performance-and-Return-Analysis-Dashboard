@@ -11,6 +11,16 @@ The dashboard was built using the following tools and technologies:
   D) Data Modeling- Relationships established among tables to enable filtering and aggregation.
   E) File Format- .pbix for development and .png for dashboard previews.
 
-3. Features/ Highlights
-   1. 
-   2.
+3. Data Source: SQL Server Database
+
+4. Features/ Highlights
+   A) Business Problems
+      A) What are the total sales, profit, and quantity sold by region, market, and 
+
+
+
+    B) Business Objectives
+      A) 
+
+5. Screenshots:
+   The dashboard look like: 
